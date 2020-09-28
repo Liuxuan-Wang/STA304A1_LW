@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on A Hugo website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toronto Neighbourhood Auto Theft situation from 2014 to 2019</title>
+      <link>/2015/07/23/toronto-neighbourhood-auto-theft-situation-from-2014-to-2019/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/toronto-neighbourhood-auto-theft-situation-from-2014-to-2019/</guid>
+      <description>abstract In this paper we are going to explore the number of Auto Theft cases for each Toronto Neighbourhood from 2014 to 2019. To see if there is any neighbourhood which is unusual. Has the number of Auto Theft cases been varied a lot among years?
+ Intoduction In a modern city like Toronto, Auto theft always exist. As the number of auto mobile vechicles increase, people’s methods of preventing the theft are also more ane more advanced.</description>
+    </item>
+    
+  </channel>
+</rss>
